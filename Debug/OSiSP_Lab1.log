@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Shape.cpp
+  OSiSP_Lab1.cpp
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(159): warning C4244: =: преобразование "DWORD" в "BYTE", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(221): warning C4244: =: преобразование "LONG" в "SHORT", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(222): warning C4244: =: преобразование "LONG" в "SHORT", возможна потеря данных
+  Создание кода...
+  OSiSP_Lab1.vcxproj -> C:\Users\Kirik\Desktop\Учёба\5 семестр\ОСиСП\OSiSP_Lab1\OSiSP_Lab1\Debug\OSiSP_Lab1.exe
+  OSiSP_Lab1.vcxproj -> C:\Users\Kirik\Desktop\Учёба\5 семестр\ОСиСП\OSiSP_Lab1\OSiSP_Lab1\Debug\OSiSP_Lab1.pdb (Full PDB)
