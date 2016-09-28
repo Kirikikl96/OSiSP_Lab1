@@ -1,9 +1,38 @@
 ﻿  stdafx.cpp
+  TextFactory.cpp
+  Text.cpp
+  ShapeFactory.cpp
   Shape.cpp
+  RectangleFactory.cpp
+  Rectangle.cpp
+  PolygonLineFactory.cpp
+  PolygonLine.cpp
+  PolygonFactory.cpp
+  Polygon.cpp
+  PenFactory.cpp
+  Pen.cpp
   OSiSP_Lab1.cpp
-c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(159): warning C4244: =: преобразование "DWORD" в "BYTE", возможна потеря данных
-c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(221): warning C4244: =: преобразование "LONG" в "SHORT", возможна потеря данных
-c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(222): warning C4244: =: преобразование "LONG" в "SHORT", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(173): warning C4244: =: преобразование "DWORD" в "BYTE", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(235): warning C4244: =: преобразование "LONG" в "SHORT", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(236): warning C4244: =: преобразование "LONG" в "SHORT", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(331): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(337): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(359): warning C4244: =: преобразование "float" в "SHORT", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(360): warning C4244: =: преобразование "float" в "SHORT", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(477): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(478): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(481): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(490): warning C4244: *=: преобразование "float" в "LONG", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(491): warning C4244: *=: преобразование "float" в "LONG", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(497): warning C4244: /=: преобразование "float" в "LONG", возможна потеря данных
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(498): warning C4244: /=: преобразование "float" в "LONG", возможна потеря данных
+  LineFactory.cpp
+  Line.cpp
+  FileName.cpp
+  EllipseFactory.cpp
+  Ellipse.cpp
   Создание кода...
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\filename.cpp(52): warning C4172: возвращение адреса локальной или временной переменной : newPath
+c:\users\kirik\desktop\учёба\5 семестр\осисп\osisp_lab1\osisp_lab1\osisp_lab1\osisp_lab1.cpp(290): warning C4715: ChooseColorProc: значение возвращается не при всех путях выполнения
   OSiSP_Lab1.vcxproj -> C:\Users\Kirik\Desktop\Учёба\5 семестр\ОСиСП\OSiSP_Lab1\OSiSP_Lab1\Debug\OSiSP_Lab1.exe
   OSiSP_Lab1.vcxproj -> C:\Users\Kirik\Desktop\Учёба\5 семестр\ОСиСП\OSiSP_Lab1\OSiSP_Lab1\Debug\OSiSP_Lab1.pdb (Full PDB)
